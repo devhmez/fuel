@@ -2,6 +2,8 @@
 
 A personal nutrition tracker you install on your phone: photograph a meal, get calories and macros back, and follow your weight and physique over time.
 
+<img src="docs/screenshot.jpg" alt="Fuel onboarding screen" width="300">
+
 ## What it does
 
 - **Meal scan**: take a photo (or just describe the meal) and get a per-item breakdown: grams, calories, protein, carbs, fat, plus a confidence level. Fix any gram value and the numbers rescale live.
