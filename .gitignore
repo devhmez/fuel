@@ -1,0 +1,18 @@
+# dependencies and build state
+node_modules/
+.wrangler/
+
+# local secrets
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+.env
+.env.*
+
+# personal data exported from the app (photos, body stats)
+fuel-backup-*.json
+
+# editor / tooling / OS
+.claude/
+.DS_Store
+*.log
